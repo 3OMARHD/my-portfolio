@@ -89,7 +89,7 @@ const App: React.FC = () => {
       <div className="flex flex-wrap gap-4">
         <a
           href="#about"
-          className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+          className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-black dark:text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
         >
           More About Me
           <svg
